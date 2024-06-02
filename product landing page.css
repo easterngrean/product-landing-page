@@ -46,6 +46,14 @@ body {
 height: 300px;
 }
 
+
+
+#sign {
+  border: solid;
+  border-color: black;
+height: 400px;
+}
+
 #cost {
   border: solid;
   border-color: black;
@@ -54,16 +62,11 @@ height: 500px;
   display: grid;
 }
 
-#sign {
-  border: solid;
-  border-color: black;
-height: 400px;
-}
-
 .category {
   border: solid;
   border-color: black;
   border-width: 2px;
   height: 100px;
   width: 100px;  
+  padding: 10px;
 }
