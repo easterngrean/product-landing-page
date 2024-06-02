@@ -1,5 +1,5 @@
 #header {
-  display: flex;
+  
 position: fixed;
 margin: 0;
 background-color: grey;
@@ -69,4 +69,5 @@ height: 500px;
   height: 100px;
   width: 100px;  
   padding: 10px;
+  display: flex;
 }
