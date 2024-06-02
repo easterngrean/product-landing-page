@@ -1,0 +1,49 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bengi Wo Hakaru</title>
+    <!--put in pic here
+    <link
+      href=
+     
+
+      rel="stylesheet"
+    />-->
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header id="header">
+       <img id="header-img" src="https://logodownload.org/wp-content/uploads/2014/04/coca-cola-logo-2.png" height=60px>
+       <nav id="nav-bar">
+       <ul class="menu">
+         <li>how does it <a class="nav-link" href="#work">work</a>?</li>
+         <li>how much does it <a class="nav-link" href="#cost">cost</a>?</li>
+         <li>where do I <a class="nav-link" href="#sign">sign</a>?</li>
+      </ul>
+       </nav>
+      </header>
+    <main>
+      <section id="work"></section>
+<div>
+ <iframe id="video" width="320" height="240" src="https://www.youtube.com/live/KQ3VLy8MkwI?si=3cviu7sByWah1cRb">
+</iframe> 
+</div>
+      <section id="cost"></section>
+      <section id="sign">
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <label>Pop your mail addy in the box and we'll send you what you need to get started:</label>
+        <input name="email" type="email" id="email" placeholder="email@email.com"></input>
+        <input type="submit" id="submit"></input>
+
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
