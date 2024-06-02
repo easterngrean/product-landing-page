@@ -49,6 +49,7 @@ height: 300px;
 #cost {
   border: solid;
   border-color: black;
+  border-width: 5px;
 height: 500px;
   display: grid;
 }
